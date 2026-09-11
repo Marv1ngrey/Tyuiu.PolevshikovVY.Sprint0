@@ -6,6 +6,7 @@ project.lock.json
 nupkg/
 
 man.txt
+man_create.txt
 # Visual Studio Code
 .vscode/*
 !.vscode/settings.json
